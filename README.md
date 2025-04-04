@@ -9,7 +9,7 @@ This Python package extends the functionality of numpy by introducing additional
 
 ## Installation
 ```bash
-pip install numpy_ext
+pip install numgear
 ```
 
 ## Usage
